@@ -15,12 +15,9 @@ This project is a **hackathon submission** built to support ASHA/ANM workers by 
 
 ## 📂 Folder Structure
 ```
-📁 Maternal-Health-AI
+📁 morning-group
 ├── 📄 README.md
-├── 📄 Notes.pdf
-├── 📄 PitchDeck.pptx
-└── 📁 assets
-    └── 📷 wireframes, images
+└── 📄 Morning-Group-healthcare.pptx
 ```
 
 ---
